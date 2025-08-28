@@ -1,0 +1,180 @@
+{
+  "student_name": "罗琦彦",
+  "total_reports": 33,
+  "analysis_date": "2025-08-28",
+  "score_trends": {
+    "work_volume": [
+      60,
+      96,
+      60,
+      96,
+      72,
+      96,
+      70,
+      100,
+      60,
+      100,
+      60,
+      0,
+      96,
+      88,
+      35,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      98,
+      91,
+      100,
+      96,
+      96,
+      53,
+      45,
+      83,
+      61,
+      78,
+      73,
+      72
+    ],
+    "progress_quality": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      80,
+      95,
+      95,
+      85,
+      100,
+      100,
+      80,
+      80,
+      100,
+      90,
+      100,
+      90,
+      100,
+      95,
+      95,
+      95,
+      100,
+      95,
+      95,
+      100,
+      70
+    ],
+    "problem_handling": [
+      80,
+      80,
+      80,
+      95,
+      80,
+      95,
+      95,
+      80,
+      95,
+      80,
+      75,
+      80,
+      80,
+      80,
+      80,
+      80,
+      75,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      85,
+      80,
+      80,
+      80,
+      80
+    ]
+  },
+  "average_scores": {
+    "work_volume": 79.84848484848484,
+    "progress_quality": 95.15151515151516,
+    "problem_handling": 81.66666666666667
+  },
+  "work_patterns": {
+    "primary_work_types": {
+      "实验": 32,
+      "数据处理": 31,
+      "算法开发": 26,
+      "文献阅读": 22,
+      "论文撰写": 11
+    },
+    "work_distribution": {
+      "experiments": 202,
+      "data_processing": 139,
+      "algorithm_development": 75,
+      "literature_reading": 49,
+      "paper_writing": 18
+    },
+    "productivity_weeks": 24,
+    "low_activity_weeks": 1
+  },
+  "problem_patterns": {
+    "common_difficulties": {
+      "技术难点": 13,
+      "理论疑惑": 13,
+      "实验问题": 13
+    },
+    "problem_solving_rate": 1.0,
+    "help_seeking_frequency": 29,
+    "weeks_with_problems": 13,
+    "weeks_with_solutions": 13
+  },
+  "consistency": {
+    "work_volume": {
+      "mean": 79.84848484848484,
+      "std_dev": 23.532210307294555,
+      "coefficient_of_variation": 0.2947107932222848,
+      "trend": "stable"
+    },
+    "progress_quality": {
+      "mean": 95.15151515151516,
+      "std_dev": 7.63612313233585,
+      "coefficient_of_variation": 0.08025224947996275,
+      "trend": "stable"
+    },
+    "problem_handling": {
+      "mean": 81.66666666666667,
+      "std_dev": 5.173748811807235,
+      "coefficient_of_variation": 0.06335202626702736,
+      "trend": "stable"
+    }
+  },
+  "recent_performance": {
+    "period": "最近3周",
+    "average_work_volume": 74.33333333333333,
+    "average_progress_quality": 88.33333333333333,
+    "average_problem_handling": 80.0,
+    "recent_highlights": [
+      "第九周: 规划详细",
+      "第十周: 规划详细"
+    ],
+    "recent_concerns": []
+  },
+  "recommendations": [
+    "目前表现良好，请继续保持"
+  ]
+}

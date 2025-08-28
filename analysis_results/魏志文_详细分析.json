@@ -1,0 +1,107 @@
+{
+  "student_name": "魏志文",
+  "total_reports": 8,
+  "analysis_date": "2025-08-28",
+  "score_trends": {
+    "work_volume": [
+      0,
+      100,
+      78,
+      63,
+      100,
+      100,
+      100,
+      78
+    ],
+    "progress_quality": [
+      50,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "problem_handling": [
+      80,
+      95,
+      95,
+      95,
+      100,
+      75,
+      75,
+      100
+    ]
+  },
+  "average_scores": {
+    "work_volume": 77.375,
+    "progress_quality": 93.75,
+    "problem_handling": 89.375
+  },
+  "work_patterns": {
+    "primary_work_types": {
+      "实验": 7,
+      "数据处理": 6,
+      "算法开发": 7,
+      "文献阅读": 7
+    },
+    "work_distribution": {
+      "experiments": 48,
+      "data_processing": 31,
+      "algorithm_development": 26,
+      "literature_reading": 19,
+      "paper_writing": 0
+    },
+    "productivity_weeks": 6,
+    "low_activity_weeks": 1
+  },
+  "problem_patterns": {
+    "common_difficulties": {
+      "技术难点": 7,
+      "理论疑惑": 7,
+      "实验问题": 7
+    },
+    "problem_solving_rate": 1.0,
+    "help_seeking_frequency": 7,
+    "weeks_with_problems": 7,
+    "weeks_with_solutions": 7
+  },
+  "consistency": {
+    "work_volume": {
+      "mean": 77.375,
+      "std_dev": 32.09726429152491,
+      "coefficient_of_variation": 0.4148273252539568,
+      "trend": "improving"
+    },
+    "progress_quality": {
+      "mean": 93.75,
+      "std_dev": 16.535945694153693,
+      "coefficient_of_variation": 0.17638342073763938,
+      "trend": "improving"
+    },
+    "problem_handling": {
+      "mean": 89.375,
+      "std_dev": 10.135796712641785,
+      "coefficient_of_variation": 0.11340751566592207,
+      "trend": "stable"
+    }
+  },
+  "recent_performance": {
+    "period": "最近3周",
+    "average_work_volume": 92.66666666666667,
+    "average_progress_quality": 100.0,
+    "average_problem_handling": 83.33333333333333,
+    "recent_highlights": [
+      "第六周: 工作量充实",
+      "第六周: 规划详细",
+      "第九周: 工作量充实",
+      "第九周: 规划详细",
+      "第十周: 规划详细"
+    ],
+    "recent_concerns": []
+  },
+  "recommendations": [
+    "建议提高work_volume的稳定性，保持持续的工作状态"
+  ]
+}

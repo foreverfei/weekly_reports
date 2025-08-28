@@ -1,0 +1,163 @@
+{
+  "student_name": "王唯懿",
+  "total_reports": 26,
+  "analysis_date": "2025-08-28",
+  "score_trends": {
+    "work_volume": [
+      78,
+      100,
+      86,
+      91,
+      100,
+      78,
+      78,
+      100,
+      86,
+      86,
+      86,
+      91,
+      86,
+      86,
+      100,
+      75,
+      88,
+      60,
+      100,
+      78,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "progress_quality": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "problem_handling": [
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      100,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75
+    ]
+  },
+  "average_scores": {
+    "work_volume": 89.73076923076923,
+    "progress_quality": 100.0,
+    "problem_handling": 75.96153846153847
+  },
+  "work_patterns": {
+    "primary_work_types": {
+      "实验": 26,
+      "数据处理": 26,
+      "算法开发": 26,
+      "文献阅读": 24,
+      "论文撰写": 3
+    },
+    "work_distribution": {
+      "experiments": 206,
+      "data_processing": 174,
+      "algorithm_development": 147,
+      "literature_reading": 93,
+      "paper_writing": 3
+    },
+    "productivity_weeks": 25,
+    "low_activity_weeks": 0
+  },
+  "problem_patterns": {
+    "common_difficulties": {
+      "技术难点": 26,
+      "理论疑惑": 26,
+      "实验问题": 26
+    },
+    "problem_solving_rate": 1.0,
+    "help_seeking_frequency": 26,
+    "weeks_with_problems": 26,
+    "weeks_with_solutions": 26
+  },
+  "consistency": {
+    "work_volume": {
+      "mean": 89.73076923076923,
+      "std_dev": 10.563207890917681,
+      "coefficient_of_variation": 0.11772113380362612,
+      "trend": "stable"
+    },
+    "progress_quality": {
+      "mean": 100.0,
+      "std_dev": 0.0,
+      "coefficient_of_variation": 0.0,
+      "trend": "stable"
+    },
+    "problem_handling": {
+      "mean": 75.96153846153847,
+      "std_dev": 4.8076923076923075,
+      "coefficient_of_variation": 0.06329113924050632,
+      "trend": "stable"
+    }
+  },
+  "recent_performance": {
+    "period": "最近3周",
+    "average_work_volume": 100.0,
+    "average_progress_quality": 100.0,
+    "average_problem_handling": 75.0,
+    "recent_highlights": [
+      "第六周: 工作量充实",
+      "第六周: 规划详细",
+      "第七周: 工作量充实",
+      "第七周: 规划详细",
+      "第十周: 工作量充实",
+      "第十周: 规划详细"
+    ],
+    "recent_concerns": []
+  },
+  "recommendations": [
+    "工作量充足，继续保持，注意劳逸结合"
+  ]
+}

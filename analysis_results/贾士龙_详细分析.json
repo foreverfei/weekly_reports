@@ -1,0 +1,180 @@
+{
+  "student_name": "贾士龙",
+  "total_reports": 32,
+  "analysis_date": "2025-08-28",
+  "score_trends": {
+    "work_volume": [
+      91,
+      60,
+      60,
+      96,
+      100,
+      86,
+      60,
+      83,
+      60,
+      60,
+      60,
+      60,
+      96,
+      100,
+      60,
+      91,
+      100,
+      60,
+      100,
+      100,
+      96,
+      60,
+      100,
+      95,
+      60,
+      60,
+      60,
+      88,
+      60,
+      100,
+      100,
+      100
+    ],
+    "progress_quality": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "problem_handling": [
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75
+    ]
+  },
+  "average_scores": {
+    "work_volume": 80.0625,
+    "progress_quality": 100.0,
+    "problem_handling": 75.0
+  },
+  "work_patterns": {
+    "primary_work_types": {
+      "实验": 32,
+      "数据处理": 32,
+      "算法开发": 32,
+      "文献阅读": 18
+    },
+    "work_distribution": {
+      "experiments": 209,
+      "data_processing": 175,
+      "algorithm_development": 143,
+      "literature_reading": 111,
+      "paper_writing": 0
+    },
+    "productivity_weeks": 18,
+    "low_activity_weeks": 0
+  },
+  "problem_patterns": {
+    "common_difficulties": {
+      "技术难点": 32,
+      "理论疑惑": 32,
+      "实验问题": 32
+    },
+    "problem_solving_rate": 1.0,
+    "help_seeking_frequency": 32,
+    "weeks_with_problems": 32,
+    "weeks_with_solutions": 32
+  },
+  "consistency": {
+    "work_volume": {
+      "mean": 80.0625,
+      "std_dev": 18.15202726281558,
+      "coefficient_of_variation": 0.22672321327482378,
+      "trend": "stable"
+    },
+    "progress_quality": {
+      "mean": 100.0,
+      "std_dev": 0.0,
+      "coefficient_of_variation": 0.0,
+      "trend": "stable"
+    },
+    "problem_handling": {
+      "mean": 75.0,
+      "std_dev": 0.0,
+      "coefficient_of_variation": 0.0,
+      "trend": "stable"
+    }
+  },
+  "recent_performance": {
+    "period": "最近3周",
+    "average_work_volume": 100.0,
+    "average_progress_quality": 100.0,
+    "average_problem_handling": 75.0,
+    "recent_highlights": [
+      "第八周: 工作量充实",
+      "第八周: 规划详细",
+      "第十周: 工作量充实",
+      "第十周: 规划详细",
+      "第一周: 工作量充实",
+      "第一周: 规划详细"
+    ],
+    "recent_concerns": []
+  },
+  "recommendations": [
+    "目前表现良好，请继续保持"
+  ]
+}

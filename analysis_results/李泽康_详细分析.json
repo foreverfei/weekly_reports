@@ -1,0 +1,173 @@
+{
+  "student_name": "李泽康",
+  "total_reports": 29,
+  "analysis_date": "2025-08-28",
+  "score_trends": {
+    "work_volume": [
+      0,
+      100,
+      78,
+      0,
+      70,
+      0,
+      100,
+      100,
+      100,
+      100,
+      100,
+      50,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "progress_quality": [
+      85,
+      100,
+      100,
+      100,
+      100,
+      50,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50,
+      50
+    ],
+    "problem_handling": [
+      20,
+      75,
+      85,
+      20,
+      75,
+      80,
+      80,
+      75,
+      95,
+      75,
+      75,
+      75,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80,
+      80
+    ]
+  },
+  "average_scores": {
+    "work_volume": 27.517241379310345,
+    "progress_quality": 68.44827586206897,
+    "problem_handling": 75.51724137931035
+  },
+  "work_patterns": {
+    "primary_work_types": {
+      "实验": 8,
+      "数据处理": 9,
+      "算法开发": 9,
+      "文献阅读": 8
+    },
+    "work_distribution": {
+      "experiments": 54,
+      "data_processing": 51,
+      "algorithm_development": 42,
+      "literature_reading": 33,
+      "paper_writing": 0
+    },
+    "productivity_weeks": 8,
+    "low_activity_weeks": 20
+  },
+  "problem_patterns": {
+    "common_difficulties": {
+      "实验问题": 10,
+      "技术难点": 9,
+      "理论疑惑": 10,
+      "其他问题": 1
+    },
+    "problem_solving_rate": 0.8181818181818182,
+    "help_seeking_frequency": 10,
+    "weeks_with_problems": 11,
+    "weeks_with_solutions": 9
+  },
+  "consistency": {
+    "work_volume": {
+      "mean": 27.517241379310345,
+      "std_dev": 42.1513043849835,
+      "coefficient_of_variation": 1.5318143197550393,
+      "trend": "declining"
+    },
+    "progress_quality": {
+      "mean": 68.44827586206897,
+      "std_dev": 23.748083344653093,
+      "coefficient_of_variation": 0.3469493284609268,
+      "trend": "declining"
+    },
+    "problem_handling": {
+      "mean": 75.51724137931035,
+      "std_dev": 15.555508370537877,
+      "coefficient_of_variation": 0.20598618390209975,
+      "trend": "stable"
+    }
+  },
+  "recent_performance": {
+    "period": "最近3周",
+    "average_work_volume": 0.0,
+    "average_progress_quality": 50.0,
+    "average_problem_handling": 80.0,
+    "recent_highlights": [],
+    "recent_concerns": [
+      "第七周: 工作量偏少",
+      "第八周: 工作量偏少",
+      "第一周: 工作量偏少"
+    ]
+  },
+  "recommendations": [
+    "建议增加每周的工作量，可以考虑制定更具体的工作计划和目标",
+    "注意保持工作连续性，避免长时间的低活跃期",
+    "建议提高work_volume的稳定性，保持持续的工作状态",
+    "最近几周工作量偏少，建议调整状态，增加投入",
+    "最近表现需要关注，建议与导师沟通，调整研究方向或方法"
+  ]
+}

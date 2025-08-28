@@ -1,0 +1,111 @@
+{
+  "student_name": "张泽浩",
+  "total_reports": 9,
+  "analysis_date": "2025-08-28",
+  "score_trends": {
+    "work_volume": [
+      95,
+      95,
+      100,
+      86,
+      91,
+      100,
+      100,
+      95,
+      86
+    ],
+    "progress_quality": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "problem_handling": [
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75,
+      75
+    ]
+  },
+  "average_scores": {
+    "work_volume": 94.22222222222223,
+    "progress_quality": 100.0,
+    "problem_handling": 75.0
+  },
+  "work_patterns": {
+    "primary_work_types": {
+      "实验": 9,
+      "数据处理": 9,
+      "算法开发": 9,
+      "文献阅读": 9
+    },
+    "work_distribution": {
+      "experiments": 60,
+      "data_processing": 51,
+      "algorithm_development": 42,
+      "literature_reading": 33,
+      "paper_writing": 0
+    },
+    "productivity_weeks": 9,
+    "low_activity_weeks": 0
+  },
+  "problem_patterns": {
+    "common_difficulties": {
+      "技术难点": 9,
+      "理论疑惑": 9,
+      "实验问题": 9
+    },
+    "problem_solving_rate": 1.0,
+    "help_seeking_frequency": 9,
+    "weeks_with_problems": 9,
+    "weeks_with_solutions": 9
+  },
+  "consistency": {
+    "work_volume": {
+      "mean": 94.22222222222223,
+      "std_dev": 5.2446327649804205,
+      "coefficient_of_variation": 0.05566237604342427,
+      "trend": "stable"
+    },
+    "progress_quality": {
+      "mean": 100.0,
+      "std_dev": 0.0,
+      "coefficient_of_variation": 0.0,
+      "trend": "stable"
+    },
+    "problem_handling": {
+      "mean": 75.0,
+      "std_dev": 0.0,
+      "coefficient_of_variation": 0.0,
+      "trend": "stable"
+    }
+  },
+  "recent_performance": {
+    "period": "最近3周",
+    "average_work_volume": 93.66666666666667,
+    "average_progress_quality": 100.0,
+    "average_problem_handling": 75.0,
+    "recent_highlights": [
+      "第七周: 工作量充实",
+      "第七周: 规划详细",
+      "第八周: 工作量充实",
+      "第八周: 规划详细",
+      "第九周: 工作量充实",
+      "第九周: 规划详细"
+    ],
+    "recent_concerns": []
+  },
+  "recommendations": [
+    "工作量充足，继续保持，注意劳逸结合"
+  ]
+}

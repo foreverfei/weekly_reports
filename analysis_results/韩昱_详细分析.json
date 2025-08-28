@@ -1,0 +1,67 @@
+{
+  "student_name": "韩昱",
+  "total_reports": 1,
+  "analysis_date": "2025-08-28",
+  "score_trends": {
+    "work_volume": [
+      100
+    ],
+    "progress_quality": [
+      100
+    ],
+    "problem_handling": [
+      95
+    ]
+  },
+  "average_scores": {
+    "work_volume": 100.0,
+    "progress_quality": 100.0,
+    "problem_handling": 95.0
+  },
+  "work_patterns": {
+    "primary_work_types": {
+      "实验": 1,
+      "数据处理": 1,
+      "算法开发": 1,
+      "文献阅读": 1,
+      "论文撰写": 1
+    },
+    "work_distribution": {
+      "experiments": 7,
+      "data_processing": 6,
+      "algorithm_development": 5,
+      "literature_reading": 4,
+      "paper_writing": 1
+    },
+    "productivity_weeks": 1,
+    "low_activity_weeks": 0
+  },
+  "problem_patterns": {
+    "common_difficulties": {
+      "技术难点": 1,
+      "理论疑惑": 1,
+      "实验问题": 1
+    },
+    "problem_solving_rate": 1.0,
+    "help_seeking_frequency": 1,
+    "weeks_with_problems": 1,
+    "weeks_with_solutions": 1
+  },
+  "consistency": {
+    "insufficient_data": true
+  },
+  "recent_performance": {
+    "period": "最近1周",
+    "average_work_volume": 100.0,
+    "average_progress_quality": 100.0,
+    "average_problem_handling": 95.0,
+    "recent_highlights": [
+      "第二十一周: 工作量充实",
+      "第二十一周: 规划详细"
+    ],
+    "recent_concerns": []
+  },
+  "recommendations": [
+    "工作量充足，继续保持，注意劳逸结合"
+  ]
+}
